@@ -1,0 +1,12 @@
+{
+  "laravel.autoComplete.enable": true,
+  "laravel.autoComplete.useBladeFormatter": true,
+  "blade.enable": true,
+  "blade.enable": true,
+  "suggest.noselect": false,
+  "suggest.autoTrigger": "always",
+  "coc.source.blade.enable": true,
+  "blade.completion.triggerCharacters": ["@", ":", "$", " "]
+
+}
+
